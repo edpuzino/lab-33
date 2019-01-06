@@ -6,10 +6,9 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [repo](https://github.com/edpuzino/lab-33)
+* [codesandbox](https://codesandbox.io/s/ql67y218kq)
+
 
 ### Modules
 #### `modulename.js`
